@@ -1,3 +1,3 @@
 # Avoid-Obstacles
-The purpose of game is collecting the most bottles and avoid foreign materials in 30 seconds.
+The purpose of game is avoid obstacles in the longest time and you have 3 lives.
 https://drive.google.com/file/d/1XFsITFbfWRVLToZY47SCVycAYEIyQwBS/view?usp=share_link
